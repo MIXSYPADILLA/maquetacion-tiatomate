@@ -77,38 +77,6 @@ h1 {
 .fila5{
 	background-color: #FAFAFA;
 }
-.javiera{
-	width: 100%;
-	padding-top: 100px;
-	padding-bottom: 50px;
-	background-color: #fafafa;
-}
-
-#card5{
-	background-color: #fafafa;
-	border-radius: 0px 0px 0px 0px;
-	border:none;
-	margin: 0px;
-	padding: 0px 50px 100px 100px;
-}
-.roberto{
-	width: 100%;
-	padding-top: 100px;
-	padding-bottom: 50px;
-	background-color: #fafafa;
-}
-#card6{
-	background-color: #fafafa;
-	border-radius: 0px 0px 0px 0px;
-	border:none;
-	margin: 0px;
-	padding: 0px 50px 50px 100px;
-
-}
-.fila5{
-	background-color: #FAFAFA;
-	height: 390px;
-}
 #javiera{
 	width: 450px;
 	padding-top: 90px;
@@ -182,7 +150,14 @@ h1 {
 	margin-right: 150px;
 	padding-top: 10px;
 }
-
+.a2a_button_facebook{
+	margin-top: 100px;
+	margin-left: 180px
+}
+.a2a_button_twitter{
+	margin-top: 100px;
+	margin-left: 60px;
+}
 #acerca{
 	color: white;
 }
