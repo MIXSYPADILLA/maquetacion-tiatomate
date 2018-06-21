@@ -1,5 +1,6 @@
-### Pagina web tía Tomate
-# Proyecto final de la página web de empresa productora de tomates orgánicos llamada **Tía Tomate** 
+
+
+# Proyecto final de la página web de empresa productora de tomates orgánicos llamada Tía Tomate
 
 ### Estructura del proyecto
 
@@ -14,17 +15,21 @@
 # En ella desean mostrar a sus clientes una pequeña reseña sobre su historia, la procedencia de sus productos y mostrar a las personas que trabajan cosechando estas verduras.
 
 ### Requisitos generales:
-#- Ser responsiva
-#- Mostrar la pasión que sienten por sus tomates
-#- Dar énfasis a la compra de sus productos
-#- Mostrar el logo de la empresa
+
+# Ser responsiva
+# Mostrar la pasión que sienten por sus tomates
+# Dar énfasis a la compra de sus productos
+# Mostrar el logo de la empresa
 
 ### Premaquetación Manual
 
 #Primer paso antes de empezar a trabajar en el computador.
 
-![](img/maquetación-web.jpg). Revisa sketch de la versión escritorio 
-![](img/maquetación-movíl.jpg). Revisa sketch de la versión movíl 
+##Revisa sketch de la versión escritorio 
+![](img/maquetación-web.jpg). 
+
+##Revisa sketch de la versión movíl
+![](img/maquetación-movíl.jpg).  
 
 ### Descripción Inicial Vía PC
 
@@ -32,16 +37,16 @@
 
 ### La cual cuenta con:
 
-#-	Barra de navegación, cuenta con logo de Tía Tomates
-## 1.	Acerca de:
-## 2.	Productos.
-## 3.	Blog.
-## 4.	Contactos.
-#-	Sección con Imágenes con información de la empresa
-#-	Sección de Nosotros
-##1.	Fotos he información de creadores de la empresa.
-#-	Link para compra directa de tomates para mayoristas.
-#-	Footer (pie de pagina con logo y links redes sociales de empresa.
+#	Barra de navegación, cuenta con logo de Tía Tomates
+ 	1.	Acerca de:
+	2.	Productos.
+ 	3.	Blog.
+	4.	Contactos.
+#	Sección con Imágenes con información de la empresa
+#	Sección de Nosotros
+    1.	Fotos he información de creadores de la empresa.
+# Link para compra directa de tomates para mayoristas.
+# Footer (pie de pagina con logo y links redes sociales de empresa.
 
 ### Tecnologías usadas
 
