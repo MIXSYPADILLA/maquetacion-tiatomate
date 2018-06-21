@@ -5,7 +5,7 @@
 
 # La estructura del proyecto está basada en lo que el diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-estilos.png) con las imágenes, colores y fuentes que usó para crear esta representación visual (Se pueden encontrar los assets en el siguiente [link](../assets)).
 
-h1 Revisa el mockup [aquí](img/tiatomate-desktop.png).
+h1  ![](img/tiatomate-desktop.png). Revisa el mockup
 
 ### Contenido y características
 
@@ -23,8 +23,8 @@ h1 Revisa el mockup [aquí](img/tiatomate-desktop.png).
 
 #Primer paso antes de empezar a trabajar en el computador.
 
-h1 Revisa sketch de la versión escritorio [aquí](img/maquetación-web.jpg).
-h1 Revisa sketch de la versión móvil [aquí](img/maquetación-movíl.jpg).
+![](img/maquetación-web.jpg). Revisa sketch de la versión escritorio 
+![](img/maquetación-movíl.jpg). Revisa sketch de la versión movíl 
 
 ### Descripción Inicial Vía PC
 
@@ -49,3 +49,5 @@ h1 Revisa sketch de la versión móvil [aquí](img/maquetación-movíl.jpg).
 
 
 https://mixsypadilla.github.io/maquetacion-tiatomate/ 
+
+ 
