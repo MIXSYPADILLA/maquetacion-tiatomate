@@ -5,7 +5,7 @@
 
 # La estructura del proyecto está basada en lo que el diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-estilos.png) con las imágenes, colores y fuentes que usó para crear esta representación visual (Se pueden encontrar los assets en el siguiente [link](../assets)).
 
-h1  ![](img/tiatomate-desktop.png). Revisa el mockup
+![](img/tiatomate-desktop.png). Revisa el mockup
 
 ### Contenido y características
 
