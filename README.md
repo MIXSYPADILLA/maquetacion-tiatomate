@@ -1,9 +1,10 @@
 
 # Proyecto final de la página web de empresa productora de tomates orgánicos llamada Tía Tomate
 
-##Estructura del proyecto
+## Estructura del proyecto
 
-# La estructura del proyecto está basada en lo que el diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-estilos.png) con las imágenes, colores y fuentes que usó para crear esta representación visual (Se pueden encontrar los assets en el siguiente [link](../assets)).
+# La estructura del proyecto está basada en lo que el diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-estilos.png) con las imágenes, colores y fuentes que usó para crear esta representación visual (Se pueden encontrar los assets en el siguiente [link](../assets).
+
 ![](img/tiatomate-desktop.png). 
 
 ## Contenido y características
@@ -22,10 +23,12 @@
 ## Premaquetación Manual
 
 # Revisa sketch de la versión escritorio 
-![](img/maquetación-web.jpg). 
 
-# Revisa sketch de la versión movíl
-![](img/maquetación-movíl.jpg).  
+
+![Mockup blog escritorio](img/maquetación-web.jpg)
+
+![Mockup blog movíl](img/maquetación-movíl.jpg)
+
 
 ## Descripción Inicial Vía PC
 
