@@ -25,7 +25,7 @@
 # Revisa sketch de la versión escritorio 
 
 
-![Mockup blog escritorio](img/maquetación-web.jpg)
+![Mockup blog web](img/maquetación-web.jpg)
 
 ![Mockup blog movíl](img/maquetación-movíl.jpg)
 
